@@ -1,0 +1,2 @@
+# Optional screenshot automation; the skill itself has no runtime dependency.
+playwright==1.62.0
